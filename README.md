@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Tic Tac Toe with React Hooks + Styled Component
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Demo
+
+[Live Demo Here](https://tic-tac-toe-react-hooks.surge.sh)
+
+![Tic Tac Toe](Preview.gif)
 
 ## Available Scripts
 
